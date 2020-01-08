@@ -1,0 +1,4 @@
+﻿  proiect III.cpp
+c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect iii - numarul 10\proiect iii\casa.h(12): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\dragos\desktop\coding (c si c++)\oop - facultate\proiect iii - numarul 10\proiect iii\proiect iii.cpp(43): warning C4101: 'tip': unreferenced local variable
+  proiect III.vcxproj -> C:\Users\Dragos\Desktop\coding (C si C++)\OOP - Facultate\proiect III - numarul 10\Debug\proiect III.exe
